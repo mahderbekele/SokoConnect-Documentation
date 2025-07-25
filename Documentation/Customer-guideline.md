@@ -7,6 +7,7 @@ SokoConnect helps you find and order pre-prepared foods from trusted Mama Mboga 
 1. Getting Started
 Access SokoConnect:
 Download our app from playstore on your smartphone or tablet.
+
 ![alt text](<Images/Screenshot from 2025-07-25 09-56-08.png>)
 
 Create Your Account:
