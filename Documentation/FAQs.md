@@ -52,4 +52,4 @@ You can reach our customer support team through the in-app help section or by [i
 
 
 
-
+Last updated July, 2025

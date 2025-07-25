@@ -63,3 +63,6 @@ No multi-language support at launch
   Here is our [regulatory and compliance data attached] (https://docs.google.com/document/d/16JZ6EFk8k9zWEoiPtGb1qfq9QtfRm0kFLaf7Z58OZNE/edit?usp=sharing)
 
 
+
+
+Last updated July, 2025

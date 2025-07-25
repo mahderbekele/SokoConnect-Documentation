@@ -21,3 +21,6 @@ Mama Mboga vendors- informal vegetable sellers who play a vital role in Kenya’
 
 Young customers- who prefer online shopping to physical shopping. 
 
+
+
+Last updated July, 2025

@@ -89,3 +89,6 @@ Use ratings as motivation to improve and attract more business.
 
 Thank you for being part of SokoConnect—where your service and quality help shape a modern, digital market for all!
 
+
+
+Last updated July, 2025
