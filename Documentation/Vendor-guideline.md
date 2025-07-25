@@ -5,8 +5,11 @@ Welcome to SokoConnect! This guide is designed to help Mama Mboga vendors make t
 1. Getting Started
 Download the App:
 Install the SokoConnect Mama Mboga mobile app on your smartphone.
+
 ![alt text](<Images/Screenshot from 2025-07-25 09-42-38.png>)
+
 ![alt text](<Images/Screenshot from 2025-07-25 09-44-36.png>)
+
 Register Your Account:
 Complete your profile by providing your business details and verifying your phone number.
 

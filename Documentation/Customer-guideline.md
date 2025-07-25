@@ -29,6 +29,7 @@ Once your order is accepted, track its status in real time.
 Secure Payments:
 Pay safely through M-Pesa directly within the app. You’ll receive a confirmation for every transaction.
 ![alt text](<Images/Screenshot from 2025-07-25 10-01-14.png>)
+
 Keep Your Records:
 View your past orders and transactions anytime under your profile.
 
@@ -37,6 +38,7 @@ View your past orders and transactions anytime under your profile.
 Rate Your Vendor:
 After each order, leave a rating (1–5 stars) and feedback to help maintain high service quality.
 ![alt text](<Images/Screenshot from 2025-07-25 10-02-16.png>)
+
 Reporting Issues:
 Use the app’s feedback or complaint section to report any problems or share suggestions. Our team will follow up promptly.
 
