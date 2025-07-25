@@ -11,7 +11,6 @@ Welcome to SokoConnect documentation. This documentation is a guide to help our 
 
 [FAQs](Documentation/FAQs.md)
 
-[Technical-overview](Documentation/Technical-overview.md)
 
 __Introduction__
 
