@@ -44,11 +44,9 @@ Yes. You can create special offers or discounts for loyal customers, and the sys
 You can easily update your available products and prices directly in the mobile app.
 
 **General**
-1. Is SokoConnect available in my area?
-We are expanding rapidly. Check the app or website to see if service is available in your location.
 
-2. Who can I contact for more support?
-You can reach our customer support team through the in-app help section or by [insert contact method].
+1. Who can I contact for more support?
+You can reach our customer support through [sokoconnect@gmail.com](sokoconnect@ggmail.com).
 
 
 
