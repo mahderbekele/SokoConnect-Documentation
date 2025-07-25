@@ -1,5 +1,5 @@
-SokoConnect Frequently Asked Questions (FAQs)
-For Customers
+__SokoConnect Frequently Asked Questions (FAQs)__
+**For Customers**
 1. What is SokoConnect?
 SokoConnect is a digital platform that connects you with nearby Mama Mboga vendors, making it easy to order pre-prepared foods conveniently from your phone or computer.
 
@@ -24,7 +24,7 @@ Payments can be made securely through M-Pesa directly within the app.
 8. Is my personal data safe?
 Absolutely. We employ robust security and data protection measures in compliance with Kenyan law to ensure your data is secure.
 
-For Mama Mboga Vendors
+**For Mama Mboga Vendors**
 1. How do I join SokoConnect?
 Download the Mama Mboga App, complete your registration, and start updating your stock. Our team may assist you in onboarding.
 
@@ -43,7 +43,7 @@ Yes. You can create special offers or discounts for loyal customers, and the sys
 6. How do I update my stock or menu?
 You can easily update your available products and prices directly in the mobile app.
 
-General
+**General**
 1. Is SokoConnect available in my area?
 We are expanding rapidly. Check the app or website to see if service is available in your location.
 
