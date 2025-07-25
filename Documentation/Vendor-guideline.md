@@ -4,6 +4,7 @@ __SokoConnect Vendor Guideline__
 Welcome to SokoConnect! This guide is designed to help Mama Mboga vendors make the most of the platform, deliver great service, and grow your business.
 
 **1. Getting Started**
+
 Download the App:
 Install the SokoConnect Mama Mboga mobile app on your smartphone.
 
@@ -21,6 +22,7 @@ Add the food items you offer, update prices, and keep your stock current in the 
 ![alt text](<Images/Screenshot from 2025-07-25 09-45-47.png>)
 
 **2. Receiving & Managing Orders**
+
 How Orders Work:
 Orders are sent to all Mama Mboga vendors within a 500-meter radius. When a customer places an order, you’ll get a real-time notification in the app.
 
@@ -35,6 +37,7 @@ Review and manage your recent sales directly in the app.
 ![alt text](<Images/Screenshot from 2025-07-25 09-48-59.png>)
 
 **3. Customer Interaction & Ratings**
+
 Deliver Quality Service:
 Always provide fresh, well-prepared foods and follow customer instructions closely.
 
@@ -46,6 +49,7 @@ If your average rating drops below 3 stars, you’ll be prompted to attend a fre
 
 
 **4. Offering Discounts & Rewards**
+
 Engage Loyal Customers:
 Use the app to create special discounts or offers for repeat buyers. The system will automatically apply your offers to eligible customers.
 
@@ -55,6 +59,7 @@ Update your offers regularly to attract and keep loyal buyers.
 ![alt text](<Images/Screenshot from 2025-07-25 09-50-18.png>)
 
 **5. Payments**
+
 Get Paid Securely:
 All payments are processed through M-Pesa, using the phone number linked to your SokoConnect account.
 
@@ -64,6 +69,7 @@ Easily keep track of your sales and payments in your app’s transaction history
 ![alt text](<Images/Screenshot from 2025-07-25 09-51-47.png>)
 
 **6. Stock & Menu Management**
+
 Update Regularly:
 Keep your product list and prices updated to avoid cancellations and ensure customer satisfaction.
 
@@ -88,6 +94,10 @@ Be friendly, reliable, and receptive to customer feedback.
 Use ratings as motivation to improve and attract more business.
 
 Thank you for being part of SokoConnect—where your service and quality help shape a modern, digital market for all!
+
+
+
+
 
 
 

@@ -23,4 +23,8 @@ Young customers- who prefer online shopping to physical shopping.
 
 
 
+
+
+
+
 Last updated July, 2025
