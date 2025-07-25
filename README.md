@@ -79,15 +79,8 @@ SokoConnect Customer Guideline is about
 
 * This file is intended to clarify common questions for both customers and vendors to help them effectively use and benefit from the SokoConnect platform. [click_here](Documentation/FAQs.md)  to get to the file.
 
-[__Technical-overview__](Documentation/Technical-overview.md)
 
-This is file contains the 
 
-* Architecture Flow Description
-
-* Integrations / APIs
-
-* Security and Data Handling
 
 
 Last updated July, 2025
