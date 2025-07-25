@@ -16,6 +16,7 @@ Complete your profile by providing your business details and verifying your phon
 
 Set Up Your Stock:
 Add the food items you offer, update prices, and keep your stock current in the app.
+
 ![alt text](<Images/Screenshot from 2025-07-25 09-45-47.png>)
 
 2. Receiving & Managing Orders
@@ -24,10 +25,12 @@ Orders are sent to all Mama Mboga vendors within a 500-meter radius. When a cust
 
 Accept & Fulfill Quickly:
 Accept orders as soon as possible and prepare them according to the customer’s request. Mark orders as complete when ready for pickup or delivery.
+
 ![alt text](<Images/Screenshot from 2025-07-25 09-46-48.png>)
 
 Order History:
 Review and manage your recent sales directly in the app.
+
 ![alt text](<Images/Screenshot from 2025-07-25 09-48-59.png>)
 
 3. Customer Interaction & Ratings
@@ -47,6 +50,7 @@ Use the app to create special discounts or offers for repeat buyers. The system 
 
 Announce Promotions:
 Update your offers regularly to attract and keep loyal buyers.
+
 ![alt text](<Images/Screenshot from 2025-07-25 09-50-18.png>)
 
 5. Payments
@@ -55,6 +59,7 @@ All payments are processed through M-Pesa, using the phone number linked to your
 
 View Transactions:
 Easily keep track of your sales and payments in your app’s transaction history.
+
 ![alt text](<Images/Screenshot from 2025-07-25 09-51-47.png>)
 
 6. Stock & Menu Management
