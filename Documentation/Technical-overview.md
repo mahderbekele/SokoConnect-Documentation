@@ -1,6 +1,6 @@
-Technical Overview
+__Technical Overview__
 
-1. Architecture Flow Description
+**1. Architecture Flow Description**
 
 
 Registration & Login
@@ -36,7 +36,7 @@ Payment details are processed via the API, which updates payment status in the d
 Both customers and vendors can view payment confirmation and history.
 
 
-2. Integrations / APIs
+**2. Integrations / APIs**
 
 
  M-Pesa API: Handles all customer-to-vendor payments and confirms payment status.
@@ -57,7 +57,7 @@ No vendor-to-vendor trading or marketplace features
 
 No multi-language support at launch
 
-3. Security and Data Handling
+**3. Security and Data Handling**
 
  In building SokoConnect, a platform connecting informal vendors with young consumers, processing personal data, handling M-Pesa mobile payments, and leveraging AI for guiding daily business decisions, compliance with regulatory and legal requirements is not just a formality; it’s a basis of product development. Getting compliance right protects users, ensures ethical operations, mitigates legal risks, and secures market access, fostering trust and enabling sustainable growth.
   Here is our [regulatory and compliance data attached] (https://docs.google.com/document/d/16JZ6EFk8k9zWEoiPtGb1qfq9QtfRm0kFLaf7Z58OZNE/edit?usp=sharing)
