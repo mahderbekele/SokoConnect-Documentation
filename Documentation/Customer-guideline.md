@@ -56,14 +56,8 @@ We comply with Kenya’s data protection laws. Your personal data and transactio
 Manage Your Data:
 Access, update, or request deletion of your personal data through your profile settings.
 
-7. Support
-Need Help?
-Use the in-app support chat or contact us at [insert contact info].
+7. Tips for the Best Experience
 
-Service Area:
-Currently available in select neighborhoods—check the app for up-to-date service locations.
-
-Tips for the Best Experience
 Keep your profile and contact information up to date.
 
 Regularly check your app for new offers and vendor ratings.
